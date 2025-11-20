@@ -1,5 +1,12 @@
-# 💫 About Me:
- About Me<br><br>I’m Mustafa Asghari, a motivated junior software developer with a strong foundation in Python, JavaScript, C#, and Java. I enjoy building functional, user-focused applications—ranging from CLI tools in Python to interactive web projects using Next.js.<br><br>I’m currently studying Advanced Programming at TAFE Queensland, where I’ve strengthened my skills in software design, database development, debugging, and real-world problem solving.<br><br>I love taking ideas from concept to execution and learning new technologies that help me build better, smarter applications. I’m actively seeking an internship where I can contribute to real software projects, grow alongside experienced developers, and continue refining my craft.<br>
+Hi there 👋
+
+
+
+
+
+About Me
+
+I’m a junior software developer with experience in Python, JavaScript, C#, and Java. I enjoy building real projects—from CLI apps to full-stack web applications—and I’m currently studying Advanced Programming at TAFE Queensland. I’m looking for an internship to grow my skills and contribute to meaningful software projects.
 
 
 ## 🌐 Socials:
